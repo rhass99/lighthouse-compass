@@ -1,9 +1,0 @@
-{
-  "name": "w1dE",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "bluebird": "^3.5.5"
-  }
-}
